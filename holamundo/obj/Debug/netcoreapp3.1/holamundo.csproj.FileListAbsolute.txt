@@ -1,0 +1,12 @@
+C:\Users\Gredy\Desktop\TRABAJOS DE INGENIERIA EN SISTEMAS\tercer semestre\progra 1\holamundo\holamundo\bin\Debug\netcoreapp3.1\holamundo.exe
+C:\Users\Gredy\Desktop\TRABAJOS DE INGENIERIA EN SISTEMAS\tercer semestre\progra 1\holamundo\holamundo\bin\Debug\netcoreapp3.1\holamundo.deps.json
+C:\Users\Gredy\Desktop\TRABAJOS DE INGENIERIA EN SISTEMAS\tercer semestre\progra 1\holamundo\holamundo\bin\Debug\netcoreapp3.1\holamundo.runtimeconfig.json
+C:\Users\Gredy\Desktop\TRABAJOS DE INGENIERIA EN SISTEMAS\tercer semestre\progra 1\holamundo\holamundo\bin\Debug\netcoreapp3.1\holamundo.runtimeconfig.dev.json
+C:\Users\Gredy\Desktop\TRABAJOS DE INGENIERIA EN SISTEMAS\tercer semestre\progra 1\holamundo\holamundo\bin\Debug\netcoreapp3.1\holamundo.dll
+C:\Users\Gredy\Desktop\TRABAJOS DE INGENIERIA EN SISTEMAS\tercer semestre\progra 1\holamundo\holamundo\bin\Debug\netcoreapp3.1\holamundo.pdb
+C:\Users\Gredy\Desktop\TRABAJOS DE INGENIERIA EN SISTEMAS\tercer semestre\progra 1\holamundo\holamundo\obj\Debug\netcoreapp3.1\holamundo.AssemblyInfoInputs.cache
+C:\Users\Gredy\Desktop\TRABAJOS DE INGENIERIA EN SISTEMAS\tercer semestre\progra 1\holamundo\holamundo\obj\Debug\netcoreapp3.1\holamundo.AssemblyInfo.cs
+C:\Users\Gredy\Desktop\TRABAJOS DE INGENIERIA EN SISTEMAS\tercer semestre\progra 1\holamundo\holamundo\obj\Debug\netcoreapp3.1\holamundo.csproj.CoreCompileInputs.cache
+C:\Users\Gredy\Desktop\TRABAJOS DE INGENIERIA EN SISTEMAS\tercer semestre\progra 1\holamundo\holamundo\obj\Debug\netcoreapp3.1\holamundo.dll
+C:\Users\Gredy\Desktop\TRABAJOS DE INGENIERIA EN SISTEMAS\tercer semestre\progra 1\holamundo\holamundo\obj\Debug\netcoreapp3.1\holamundo.pdb
+C:\Users\Gredy\Desktop\TRABAJOS DE INGENIERIA EN SISTEMAS\tercer semestre\progra 1\holamundo\holamundo\obj\Debug\netcoreapp3.1\holamundo.genruntimeconfig.cache
